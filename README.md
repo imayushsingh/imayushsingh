@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imayushsingh
-- 👀 I’m interested in Full Stack web developing
-- 💞️ I’m looking to collaborate on Full Stack web development
-- 📫 Reach me at - im_ayushsingh {IG}
+- 👀 I’m interested in Full Stack web development
+- 💞 I’m looking to collaborate on Full Stack web development
+- 📫 Reach me at - https://www.linkedin.com/in/ayush-singh23/
 
 <!---
 imayushsingh/imayushsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
