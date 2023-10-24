@@ -1,6 +1,19 @@
-- 👋 Hi, I’m @imayushsingh
-- 👀 I’m interested in Full Stack web development
-- 💞 I’m looking to collaborate on Full Stack web development
+const aboutMe = {
+   name: "Ayush Singh",
+   pronouns: "he" | "him",
+   code: [Javascript, Node],
+   technologies: {
+      frontEnd: {
+         js: ["React", "NextJS"],
+         css: ["Material UI", "Tailwind UI"]
+      },
+      databases: ["MongoDB", "SQL"],
+   },
+   currentOccupation: ["Open for job opportunities"],
+   hobbies: ["WATCHING FOOTBALL", "istening songs", "Playing E-sports "],
+};
+
+
 - 📫 Reach me at - https://www.linkedin.com/in/ayush-singh23/
 
 <!---
